@@ -9,7 +9,7 @@
 ** Project Name: PA7_POKER
 ** Description: -
 ** Revision: -
-** Additional Comments: -
+** Additional Comments: With full card printout. 
 **
 **********************************************************************************/
 int main(void)
